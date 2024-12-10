@@ -1,0 +1,11 @@
+Business logic
+
+1)any file upload fuction contains id. Then copy the id and put in second account to upload file
+https://hackerone.com/reports/2450215
+
+2)login same account in normal & incognito 
+Delete account from normal mode if incognito session not delete that might be a problem.
+https://hackerone.com/reports/1728292
+
+3)Any thing comments or like that with id involve then try to do in second account with first id.
+https://hackerone.com/reports/1609955
