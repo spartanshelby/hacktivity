@@ -1,0 +1,14 @@
+1)Insecure Invitation(group admin,normal,super) Link Handling or whatever that link contain token that ask username pass 
+then 1)enter the victim credentials and 2)modify original to attacker email pass to bypass or ato if it work 
+Misconfiguration.
+View the video poc
+https://hackerone.com/reports/2586433
+
+2) create A/C using google oauth then change email id to victim's mail. Logout - login using google auth. Boom we got the victim account.
+https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16
+
+3)login export & load cookie in incognito. Logout from normal tab. If incognito tab get logout then load again with the old cookie to logging 🔥
+https://hackerone.com/reports/1162443
+
+4)with attacker email login, change email to victim's. After Then login victim credential. There is some password error or account not present that's a vulnerability. Then change back to attacker email. Try to login victim account. There is still no account present thats mean attacker delete the user account from database😁😄
+https://hackerone.com/reports/2587953
