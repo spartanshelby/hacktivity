@@ -1,0 +1,10 @@
+IDOR 
+1)INVOICE request contain "ids=something&email=not registered email"
+Then put random id & login with same email credential to view pii in invoices.
+https://hackerone.com/reports/1618100
+
+2)join room chat then must check any session leak from attacker account.
+https://hackerone.com/reports/1888545
+
+3)profile pic contains id then change the attacker profile intercept request and change id to victim id boom
+https://hackerone.com/reports/1437004
