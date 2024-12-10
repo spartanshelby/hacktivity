@@ -1,0 +1,36 @@
+1)Add Social media link in profile option
+Then github/something/some.zip 
+If zip file download after a click then it's a 😎
+
+https://hackerone.com/reports/2483422
+
+2)in rating section there is a only option ratings 1-5  but change 5 to 55 can give 200 ok the that's the 😎🍻
+
+https://hackerone.com/reports/2125049
+
+3)Info disclosure by grep urls like config,api,json,etc., no response 404 not found then go waybackurl boom we have something.😄
+
+
+
+
+
+  
+2fa bypass
+1)send Blank code to bypass 2fa also otp
+https://hackerone.com/reports/897385
+    Or
+0000
+https://hackerone.com/reports/2588329
+
+2)h1 2fa disable they ask for recovery/backup code & password - then check any of the one correct and other one wrong respectively.
+
+3)signup - enable 2fa - try change email using csrf - reset password and login to bypass 2fa
+https://hackerone.com/reports/1701378
+
+4)login with correct 2fa code look response size. Logout Then brute force 2fa if matches the same response size before if allows no rate limiting. 
+https://hackerone.com/reports/1394984
+
+5)enable 2fa - deactivate account- reset password - 2fa bypassed😂
+https://hackerone.com/reports/2543342
+
+6)
