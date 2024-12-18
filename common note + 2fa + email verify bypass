@@ -47,5 +47,5 @@ https://hackerone.com/reports/1636552
 above scenario login normal user in normal & incognito tab. paste the incognito cookie to normal tab. boom bypass
 https://hackerone.com/reports/1050244
 
-3)in group privileges. request email modify our mail and replace to victim email. then change any profile,bio,etc., then off the match and replacer. now send the email verify link. now 
+3)in group privileges. request email modify our mail and replace to victim email. send verify email. then change any profile,bio,etc., then off the match and replacer & refresh. now send the email re-verify link. now check my email for link. click verify link boom bypass
 https://hackerone.com/reports/910300
