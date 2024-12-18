@@ -37,3 +37,10 @@ https://hackerone.com/reports/1394984
 https://hackerone.com/reports/2543342
 
 6)
+
+
+Email verification bypass 
+1)send the email verification to temporary mail. don't open link, change temp mail to victim id, now open the link on temp mail. successful verify bypass
+https://hackerone.com/reports/1636552
+
+2)
