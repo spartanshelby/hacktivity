@@ -43,4 +43,7 @@ Email verification bypass
 1)send the email verification to temporary mail. don't open link, change temp mail to victim id, now open the link on temp mail. successful verify bypass
 https://hackerone.com/reports/1636552
 
-2)
+2)create admin & normal user. login to normal user copy cookies then logout. make 2fa for normal user. login to normal user, if that shows 2fa enabled by admin contact admin. so now open incognito and copy the old cookie boom 2fa bypass.
+https://hackerone.com/reports/1050244
+
+3)
