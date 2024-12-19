@@ -14,3 +14,6 @@ https://hackerone.com/reports/2203432
 
 5)login using ur credential. try spam if id in 2fa page then send wrong random codes to block the user for sometimes.
 https://hackerone.com/reports/1179232
+
+6)lock all report using graphql id=
+https://hackerone.com/reports/2139190
