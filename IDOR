@@ -8,3 +8,6 @@ https://hackerone.com/reports/1888545
 
 3)profile pic contains id then change the attacker profile intercept request and change id to victim id boom
 https://hackerone.com/reports/1437004
+
+4)create two group a&b with admin role. create work/report/submit. add two group to this report. and restrict group b. then do create,get,post,update,delete something. in this case dlete reporting works.
+https://hackerone.com/reports/2203432
