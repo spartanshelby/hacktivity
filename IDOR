@@ -17,3 +17,6 @@ https://hackerone.com/reports/1179232
 
 6)lock all report using graphql id=
 https://hackerone.com/reports/2139190
+
+7)look for any session leak. if leak then look for any send message option. then send using session id.
+https://hackerone.com/reports/1888545
