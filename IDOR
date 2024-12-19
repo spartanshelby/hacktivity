@@ -23,3 +23,8 @@ https://hackerone.com/reports/1888545
 
 8)delete admin project from normal user by changing id
 https://hackerone.com/reports/2047168
+
+9)where ever the fucking id present in json,graphql request then test
+https://hackerone.com/reports/1892200
+
+10)
