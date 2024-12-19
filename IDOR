@@ -20,3 +20,6 @@ https://hackerone.com/reports/2139190
 
 7)look for any session leak. if leak then look for any send message option. then send using session id.
 https://hackerone.com/reports/1888545
+
+8)delete admin project from normal user by changing id
+https://hackerone.com/reports/2047168
