@@ -11,3 +11,6 @@ https://hackerone.com/reports/1437004
 
 4)create two group a&b with admin role. create work/report/submit. add two group to this report. and restrict group b. then do create,get,post,update,delete something. in this case dlete reporting works.
 https://hackerone.com/reports/2203432
+
+5)login using ur credential. try spam if id in 2fa page then send wrong random codes to block the user for sometimes.
+https://hackerone.com/reports/1179232
