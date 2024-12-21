@@ -1,0 +1,4 @@
+1)gdpr personal detail delete request by spoof using victim email or by csrf
+https://hackerone.com/reports/928255
+2)any website that like option send email from victim email and send to create something. then do that as victim from attacker account
+https://hackerone.com/reports/2001913
