@@ -18,8 +18,9 @@ https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closin
 authentication issues
 1)create temporary admin access role & normal account using admin account. copy temporary admin auth token. now delete temporary admin a/c. now paste auth token in normal user to do malicious actions.
 https://hackerone.com/reports/1596663
-2)
-
+2)invite normal user using admin. accept invite. now delte invite user using admin. if not invited user session or account got delete thats a issue.
+https://hackerone.com/reports/1479894
+3)
 
 ato
 1)reset password email+ security question we known of victim and look for any temp password in response then take over the account
