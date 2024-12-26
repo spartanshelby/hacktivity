@@ -20,7 +20,9 @@ authentication issues
 https://hackerone.com/reports/1596663
 2)invite normal user using admin. accept invite. now delte invite user using admin. if not invited user session or account got delete thats a issue.
 https://hackerone.com/reports/1479894
-3)
+3)normal user cannot access to calendar in this report. now view request in burp get /calender in response contain some url with endpoint. open url in browser and that was asking oauth login and its allow to get admin access/panel
+https://hackerone.com/reports/1486310
+
 
 ato
 1)reset password email+ security question we known of victim and look for any temp password in response then take over the account
