@@ -1,0 +1,12 @@
+1)visit some url with /random_abc.css loggedin. then open incognito with same url/random_abc.css without login if website shows you as a logged in. this is a issue
+use it in like url/userprofile/cache_abc.css
+
+https://hackerone.com/reports/631589
+https://hackerone.com/reports/1271944
+https://youtu.be/uTebiBnpha0?si=LjYqov-AKHMwdV_-
+
+
+
+poisoning
+1)any target website contain some download function like software.zip or any file that available for all user. then try url/software.zip?somecache=poisoning123 if that response got 403 then open url in incognito that also got 403 response then that will be dos. it will all user to restrict acess for some times
+https://hackerone.com/reports/1173153
