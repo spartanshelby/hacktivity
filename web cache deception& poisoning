@@ -1,3 +1,4 @@
+deception
 1)visit some url with /random_abc.css loggedin. then open incognito with same url/random_abc.css without login if website shows you as a logged in. this is a issue
 use it in like url/userprofile/cache_abc.css
 
