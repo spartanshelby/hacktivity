@@ -2,3 +2,8 @@
 https://hackerone.com/reports/1691603
 2)use this to upload/send file name as test.bat".png 
 https://hackerone.com/reports/1215263
+3)https://delivery.shopifyapps.com/checkout/get_download_link?callback=jQuery22009741786286098322_1606361688834&shop=superhacks.myshopify.com&checkout_token=1c0869d74100cd3582916a93a4bce741&_=1606361688835
+remove numbers id like below
+https://delivery.shopifyapps.com/checkout/get_download_link?callback=jQuery&shop=superhacks.myshopify.com&checkout_token=
+the response is same with&without id numbers then see hacktivity below
+https://hackerone.com/reports/1044285
