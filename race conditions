@@ -3,3 +3,5 @@ coupons, up & down votes, comments
 join group multiple times using link
 https://hackerone.com/reports/1540969
 
+using curl command like request as curl then copy. like curl request with email 1 && curl request with email 2& so on
+https://hackerone.com/reports/1460373
