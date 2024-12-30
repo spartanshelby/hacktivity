@@ -5,3 +5,6 @@ https://hackerone.com/reports/1540969
 
 using curl command like request as curl then copy. like curl request with email 1 && curl request with email 2& so on
 https://hackerone.com/reports/1460373
+
+if there is any seat limit for group user. then race condition to fill the whole group with same email. or bypass the seat limit
+https://hackerone.com/reports/1418419
