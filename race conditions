@@ -8,3 +8,6 @@ https://hackerone.com/reports/1460373
 
 if there is any seat limit for group user. then race condition to fill the whole group with same email. or bypass the seat limit
 https://hackerone.com/reports/1418419
+
+repeat the purchased final request
+https://hackerone.com/reports/801743
