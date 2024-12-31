@@ -1,2 +1,4 @@
 reset password link url don't have https thats a vulnerability 
 https://hackerone.com/reports/1888915
+
+login same account in normal & private tab. then delete account in private tab. look normal tab account session got delte
