@@ -12,3 +12,6 @@ https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/
 
 5)Read “Leveraging LFI to RCE in a website with +20000 users“ by kleiton0x7e on Medium: 
 https://infosecwriteups.com/leveraging-lfi-to-rce-in-a-website-with-20000-users-129050f9982b
+
+6)somewhat if i find internal like ex.production domain then try rce like below
+https://blog.dixitaditya.com/from-android-app-to-rce/
