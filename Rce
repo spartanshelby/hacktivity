@@ -1,0 +1,2 @@
+after finding lfi then try to log poisoning and access that log and make rce
+https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d
