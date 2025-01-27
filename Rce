@@ -7,4 +7,8 @@ https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b5
 3)if i find server side injection then use below
 https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae
 
-4)
+4)find .git then below
+https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/
+
+5)Read “Leveraging LFI to RCE in a website with +20000 users“ by kleiton0x7e on Medium: 
+https://infosecwriteups.com/leveraging-lfi-to-rce-in-a-website-with-20000-users-129050f9982b
