@@ -4,4 +4,7 @@ https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831c
 2)in json endpoint change to content type to application/xml then check xml tag if that get xml error then use the rce xxe payload.
 https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b
 
-3)
+3)if i find server side injection then use below
+https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae
+
+4)
