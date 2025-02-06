@@ -1,0 +1,2 @@
+1)using waybackurls ... then grep ref= then test ssti and exploit
+https://medium.com/@CTRL2030/server-side-template-injection-ssti-to-remote-code-execution-rce-ea1079434330
