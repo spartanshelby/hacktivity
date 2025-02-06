@@ -1,2 +1,7 @@
 1)using waybackurls ... then grep ref= then test ssti and exploit
 https://medium.com/@CTRL2030/server-side-template-injection-ssti-to-remote-code-execution-rce-ea1079434330
+
+2)in the download file there is a section with username = admin and remark = where we input param. so try to inject sql os command then ssti
+Read “Cybr Academy:[LAB]Access environment variables via Lambda Function with SSTI“ by marianita_cloud on Medium: https://medium.com/@kariarce2377/cybr-academy-lab-access-environment-variables-via-lambda-function-with-ssti-8e72371c1d09
+
+3)
