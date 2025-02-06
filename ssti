@@ -7,4 +7,5 @@ https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get
 3)in the download file there is a section with username = admin and remark = where we input param. so try to inject sql os command then ssti
 Read “Cybr Academy:[LAB]Access environment variables via Lambda Function with SSTI“ by marianita_cloud on Medium: https://medium.com/@kariarce2377/cybr-academy-lab-access-environment-variables-via-lambda-function-with-ssti-8e72371c1d09
 
-4)
+4)reverse shell 
+https://medium.com/stolabs/ssti-vulnerability-server-side-template-injection-execution-and-exploration-286923651032
