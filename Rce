@@ -15,3 +15,6 @@ https://infosecwriteups.com/leveraging-lfi-to-rce-in-a-website-with-20000-users-
 
 6)somewhat if i find internal like ex.production domain then try rce like below
 https://blog.dixitaditya.com/from-android-app-to-rce/
+
+7)search path=,v1=,to=, in .js of burp history or epic way then goto that paths not present to normal user interface. then try to ssti,csrf,xss to rce 
+https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b
