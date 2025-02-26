@@ -50,3 +50,8 @@ https://hackerone.com/reports/1050244
 
 3)in group privileges. request email modify our mail and replace to victim email. send verify email. then change any profile,bio,etc., then off the match and replacer & refresh. now send the email re-verify link. now check my email for link. click verify link boom bypass
 https://hackerone.com/reports/910300
+
+
+rate limit bypass
+1)in otp verify check all the parameter with random value similar to orginal, delete parameter one by one, same at once, then empty values it will bypass the rate limit
+https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c
