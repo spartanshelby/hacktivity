@@ -18,3 +18,6 @@ https://blog.dixitaditya.com/from-android-app-to-rce/
 
 7)search path=,v1=,to=, in .js of burp history or epic way then goto that paths not present to normal user interface. then try to ssti,csrf,xss to rce 
 https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b
+
+8)404 to aws s3 root access
+https://freedium.cfd/https://infosecwriteups.com/404-to-root-how-a-forgotten-subdomain-led-to-server-takeover-%EF%B8%8F-d60e65fdbc18
