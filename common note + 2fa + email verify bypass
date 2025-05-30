@@ -50,6 +50,8 @@ https://hackerone.com/reports/2543342
 6)enter random otp 123456 and intercept req & drop now copy the jwt or auth cookie and use that to view/access endpoint like already logged on (do first with crt otp logout and try that same endpoints with this attack). 
 https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461
 
+7)Login to account on https://redacted.com/dashboard/sign-in using credentials. It will ask you to enter 2FA code. Click on browser back button shown on upper-left corner of your broweser. You will see the 2FA is getting bypassed
+https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d
 
 Email verification bypass 
 1)send the email verification to temporary mail. don't open link, change temp mail to victim id, now open the link on temp mail. successful verify bypass
