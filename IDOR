@@ -33,3 +33,6 @@ __RequestVerificationToken=X&id=14737&syd=X
     Accessing /GetFile directly                 403 fail
 https://www.test.com/FUZZ/GetFile        new endpoint profile/getfile that leaks idor
 https://freedium.cfd/https://medium.com/@arrasgotcha/from-403-forbidden-to-pii-exposure-how-i-escalated-a-low-severity-bug-to-a-high-p2-915a9b814ce6
+
+11)fuzz even id presence in s3. https://<company>-v1.s3.amazonaws.com/uploads/orders/csv/<ID>/Orders_<EVENT_SLUG>.csv  
+https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0
