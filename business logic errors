@@ -9,3 +9,6 @@ https://hackerone.com/reports/1728292
 
 3)Any thing comments or like that with id involve then try to do in second account with first id.
 https://hackerone.com/reports/1609955
+
+4)like payu send request of payment to burp proxy intercept that and drop request then change next request from success false to true (or) fail to success
+https://eulex.medium.com/how-i-made-9-000-in-one-month-from-bug-bounty-9403147b4d07
