@@ -5,3 +5,6 @@ login same account in normal & private tab. then delete account in private tab. 
 
 forgot password set old password as new password if server not check both are same then bounty was $50 
 https://freedium.cfd/https://medium.com/@kailasv678/how-i-bypassed-a-basic-security-control-in-forgot-password-and-got-a-bounty-e51ff1aaef47
+
+Trust this device for 1 month & change email id to another then logout. login using old email with cred it doesnt ask otp,2fa then boom
+https://hackerone.com/reports/2885636
