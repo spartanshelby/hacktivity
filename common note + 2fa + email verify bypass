@@ -47,7 +47,8 @@ https://hackerone.com/reports/1394984
 5)enable 2fa - deactivate account- reset password - 2fa bypassed😂
 https://hackerone.com/reports/2543342
 
-6)
+6)enter random otp 123456 and intercept req & drop now copy the jwt or auth cookie and use that to view/access endpoint like already logged on (do first with crt otp logout and try that same endpoints with this attack). 
+https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461
 
 
 Email verification bypass 
