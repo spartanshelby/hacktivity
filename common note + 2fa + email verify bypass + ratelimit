@@ -53,6 +53,8 @@ https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000
 7)Login to account on https://redacted.com/dashboard/sign-in using credentials. It will ask you to enter 2FA code. Click on browser back button shown on upper-left corner of your broweser. You will see the 2FA is getting bypassed
 https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d
 
+8)Create two accounts [User1] -> (Attacker) [User2] -> (Victim) , And enable 2FA from the settings. Login to User2 account and from the burp get the token [user2 you don’t have access to his email inbox]. Login to User1 account ,[you will receive the code of 2FA] put it in the code filed ,And while the burp interception is on, Click Continue. In the brup interception tap Edit the token of User1 to the token of User2 and click forward. Turn off the interception, you will find that you are logged in to User2 account
+https://h4reeqa.medium.com/just-a-writeup-about-2fa-bypass-at-a-private-program-509238a0a3a1
 Email verification bypass 
 1)send the email verification to temporary mail. don't open link, change temp mail to victim id, now open the link on temp mail. successful verify bypass
 https://hackerone.com/reports/1636552
