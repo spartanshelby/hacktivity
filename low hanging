@@ -2,3 +2,6 @@ reset password link url don't have https thats a vulnerability
 https://hackerone.com/reports/1888915
 
 login same account in normal & private tab. then delete account in private tab. look normal tab account session got delte
+
+forgot password set old password as new password if server not check both are same then bounty was $50 
+https://freedium.cfd/https://medium.com/@kailasv678/how-i-bypassed-a-basic-security-control-in-forgot-password-and-got-a-bounty-e51ff1aaef47
