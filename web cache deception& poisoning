@@ -11,3 +11,9 @@ https://youtu.be/uTebiBnpha0?si=LjYqov-AKHMwdV_-
 poisoning
 1)any target website contain some download function like software.zip or any file that available for all user. then try url/software.zip?somecache=poisoning123 if that response got 403 then open url in incognito that also got 403 response then that will be dos. it will all user to restrict acess for some times
 https://hackerone.com/reports/1173153
+
+2)GET /v1/profile?user=rev_30 like this endpoint
+try GET /v1/profile?user=rev_30&cb=12345 HTTP/1.1
+
+also GET /v1/profile?user=rev_30 HTTP/1.1 Host: cdn-api.target.com X-Original-URL: /v1/profile?user=victim_user
+for more https://freedium.cfd/https://infosecwriteups.com/cache-me-if-you-can-how-i-poisoned-the-cdn-and-hijacked-user-sessions-85ec5239404f
