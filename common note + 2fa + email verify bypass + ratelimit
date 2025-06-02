@@ -91,4 +91,5 @@ https://hackerone.com/reports/2293343
 
 rate limit bypass
 1)in otp verify check all the parameter with random value similar to orginal, delete parameter one by one, same at once, then empty values it will bypass the rate limit
+like request body otp=123456&repara=kdlkkaafafoepo then attack by otp=123456&reparam=    blank
 https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c
