@@ -24,6 +24,8 @@ there currently signup not available get the source code by like above annd past
 https://medium.com/legionhunters/js-recon-to-html-injection-4cdca8fd88cf
 
 7)ssrf wild fire u
+WORKSPACE:"/api/client/workspaces/find/{hostName} like this for social platform get user accounts then crafted a URL like
+this and set the hostName value to be the same as the target's hostname/self burp collab server: https://target.com/social-media-name/api/client/workspaces/find/target.com
 https://medium.com/@skycer_00/full-blown-ssrf-to-gain-access-to-millions-of-users-records-and-multiple-internal-panels-3719d9b802e9
 
 8)robots.txt never estimate get to post
