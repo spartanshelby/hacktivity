@@ -19,7 +19,8 @@ https://19whoami19.medium.com/how-i-was-able-to-sign-up-at-one-of-the-company-pa
 5)be impactfull. like victim to purchase the fake product that exact of company product by subdomain takeover/hijack.
 https://1-day.medium.com/750-domain-hijacking-vulnerability-f6e4b4445711
 
-6)hardcoded credentials or API keys exist in main.js, app.js, index.js, <custom-name>.js files, these are like gold mine
+6)hardcoded credentials or API keys exist in main.js, app.js, index.js, <custom-name>.js files, these are like gold mine.
+there currently signup not available get the source code by like above annd paste in chatgpt to make a curl request then boom we make curl request and create account make history
 https://medium.com/legionhunters/js-recon-to-html-injection-4cdca8fd88cf
 
 7)ssrf wild fire u
