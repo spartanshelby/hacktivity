@@ -32,3 +32,8 @@ https://hackerone.com/reports/1486310
 ato
 1)reset password email+ security question we known of victim and look for any temp password in response then take over the account
 https://hackerone.com/reports/2194928
+2)manipulate administrator value from username parameter in /forgot password
+do change req body username=administrator look response then administrator? for error response try lfi .../../administrator then ../../openapi%23 if response give error with path/endpoints like
+/api/internal/v1/users/{username}/field/{field} then exploit /api/internal/v1/users/administrator/field/passwordreset token in response
+(find target documentation which api is used here is openapi)
+https://blackhawkk.medium.com/exploiting-server-side-parameter-pollution-in-a-rest-api-d3a9b30212cb
