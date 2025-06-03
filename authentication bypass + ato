@@ -10,7 +10,8 @@ https://hackerone.com/reports/1063298
 
 5)steal sso token via upload svg in some of the subdomain
 https://hackerone.com/reports/265943
-6)verify email bypass by look anything that's lookup email using other parameters to get the token in response. If the program is opensource check all the param in github repo.
+6)verify email bypass by look anything that's lookup email using other parameters to get the token in response. 
+If the program is opensource check all the param in github repo.(also check parameter endpoint in waybackurls,github,paraminer,jsminer)
 https://0d-amr.medium.com/bypass-email-verification-in-mozilla-2ab45ac36c42
 7)rate limit bypass by sending without stop the intruder😵‍💫
 https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732
