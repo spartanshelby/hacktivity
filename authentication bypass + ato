@@ -24,7 +24,8 @@ https://hackerone.com/reports/1596663
 2)invite normal user using admin. accept invite. now delte invite user using admin. if not invited user session or account got delete thats a issue.
 https://hackerone.com/reports/1479894
 3)normal user cannot access to admin in this report(admin.exle.com/rooms). now add only access calender to victim using admin account. 
-open /calender in victim a/c there is a request body contain url open that url in browser and that was asking oauth login and its allow to get admin access/panel
+open /calender in victim a/c there is a request body contain url that fetch auth/jwt token from there as a temporary.
+open that url in browser and that was asking oauth login and its allow to get admin access/panel peramanent access
 https://hackerone.com/reports/1486310
 
 
