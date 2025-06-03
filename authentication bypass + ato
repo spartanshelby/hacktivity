@@ -1,8 +1,9 @@
-1)CREATE TWO USER LOGIN VICTIM WITH WRONG CREDENTIALS-  CHANGE TRUE FALSE & ID'S
+1)CREATE TWO USER LOGIN VICTIM WITH WRONG CREDENTIALS-  CHANGE TRUE FALSE & ID'S in request body parameters 
 https://hackerone.com/reports/1709881
 2)if you find a admin panel with forgot password then look response for any endpoints link with admin or fuzz those endpoints
 https://hackerone.com/reports/2043552
-3)ask for 2fa or otp after login with correct credentials. Try to login with correct credentials then page goes to 2fa/otp - click back & login again back again - loop mode on😂  until break something.
+3)ask for 2fa or otp after login with correct credentials. Try to login with correct credentials then page goes to 2fa/otp - click back & login again back again
+- loop mode on😂  until break something.
 https://hackerone.com/reports/1747978
 4)if find a option to go to the pre login page like choose cars or mars  then check video on this poc 
 https://hackerone.com/reports/1063298
@@ -16,11 +17,13 @@ https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closin
 
 
 authentication issues
-1)create temporary admin access role & normal account using admin account. copy temporary admin auth token. now delete temporary admin a/c. now paste auth token in normal user to do malicious actions.
+1)create temporary admin access role & normal account using admin account. copy temporary admin auth token. now delete temporary admin a/c.
+now paste auth token in normal user to do malicious actions.
 https://hackerone.com/reports/1596663
 2)invite normal user using admin. accept invite. now delte invite user using admin. if not invited user session or account got delete thats a issue.
 https://hackerone.com/reports/1479894
-3)normal user cannot access to calendar in this report. now view request in burp get /calender in response contain some url with endpoint. open url in browser and that was asking oauth login and its allow to get admin access/panel
+3)normal user cannot access to calendar in this report. now view request in burp get /calender in response contain some url with endpoint.
+open url in browser and that was asking oauth login and its allow to get admin access/panel
 https://hackerone.com/reports/1486310
 
 
